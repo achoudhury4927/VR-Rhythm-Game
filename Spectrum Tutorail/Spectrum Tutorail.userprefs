@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_SCRIPTS\AudioObjectsBeats.cs">
+    <Files>
+      <File FileName="Assets\_SCRIPTS\AudioVisualiser.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SCRIPTS\Orbitter2.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SCRIPTS\Orbitter1.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SCRIPTS\BandCubes.cs" Line="1" Column="1" />
+      <File FileName="Assets\_SCRIPTS\AudioObjectsBeats.cs" Line="54" Column="19" />
+      <File FileName="Assets\_SCRIPTS\AudioObjects.cs" Line="1" Column="1" />
+      <File FileName="Assets\RhythmTool\Scripts\LomontFFT.cs" Line="1" Column="1" />
+      <File FileName="Assets\RhythmTool\Scripts\AnalysisData.cs" Line="1" Column="1" />
+      <File FileName="Assets\RhythmTool\Scripts\Analysis.cs" Line="1" Column="1" />
+      <File FileName="Assets\RhythmTool\Scripts\Segmenter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
