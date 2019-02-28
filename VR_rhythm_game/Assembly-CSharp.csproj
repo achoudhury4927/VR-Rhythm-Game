@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0A0AE2FE-7C0A-95C5-3682-9E448A4815E7}</ProjectGuid>
+    <ProjectGuid>{1AD8CD2C-7732-D606-55AF-E7DC56BD1919}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -70,23 +70,6 @@
      <Compile Include="Assets\_SCRIPTS\Spawn.cs" />
      <Compile Include="Assets\_SCRIPTS\SpawnSpheres.cs" />
      <Compile Include="Assets\_SCRIPTS\Sphere.cs" />
-     <Compile Include="Assets\RhythmTool\Examples\Scripts\AnalyzeExample.cs" />
-     <Compile Include="Assets\RhythmTool\Examples\Scripts\DataExample.cs" />
-     <Compile Include="Assets\RhythmTool\Examples\Scripts\EventsExample.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\Analysis.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\AnalysisData.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\Beat.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\BeatTracker.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\EventProvider.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\IEventSequence.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\LomontFFT.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\Onset.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\ReadOnlyDictionary.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\RhythmEventProvider.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\RhythmTool.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\Segmenter.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\SongData.cs" />
-     <Compile Include="Assets\RhythmTool\Scripts\Util.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -190,12 +173,10 @@
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_UpdatePoses.cs" />
      <Compile Include="Assets\SteamVR\Scripts\SteamVR_Utils.cs" />
      <None Include="Assets\_MATERIAL\ForEmission.shader" />
-     <None Include="Assets\RhythmTool\Examples\Songs\Music by Avare.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Hints\Shaders\ControllerButtonHints.shader" />
      <None Include="Assets\SteamVR\InteractionSystem\Teleport\Shaders\Highlight.shader" />
-     <None Include="Assets\RhythmTool\Change log.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_SphericalProjection.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_AlphaOut.shader" />
      <None Include="Assets\SteamVR\readme.txt" />
