@@ -8,4 +8,4 @@ Environment: https://assetstore.unity.com/packages/3d/environments/fantasy-lands
 
 Steam VR: https://assetstore.unity.com/packages/templates/systems/steamvr-plugin-32647
 
-Audio can be added by selecting it from within the audio component ingame
+Audio can be added by selecting it from within the audio component ingame, may need to select files
