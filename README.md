@@ -12,3 +12,4 @@ Steam VR: https://assetstore.unity.com/packages/templates/systems/steamvr-plugin
 
 ## How it looks
 
+![screenshot](https://user-images.githubusercontent.com/34394963/55118942-f46d9300-50e7-11e9-913b-fcd8fafc4ad4.png)
