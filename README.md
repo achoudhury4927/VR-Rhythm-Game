@@ -1,5 +1,5 @@
 # VR_rhythm_game
-A basic rhythm game in VR for the HTC vive headset made in unity using the Rhythmtool Asset
+A basic rhythm game in VR for the HTC vive headset made in unity using the Rhythmtool Asset to generate points objects and drive visualisations throughout the scenery (particle generation, band bars movement, expansion of objects, travel speed, oscillations etc)
 Audio files have been removed and Rhythmtool asset files have been removed.
 
 Two compilex exe files have been provided. One with spawning based on beat detection from audio, the other objects spawned every second. If you do not have a VR device connected the exe will still run but it will remain at the default height on the ground and you wont be able to control the shields to gain any points.
